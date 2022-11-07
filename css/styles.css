@@ -428,8 +428,9 @@ margin-bottom: 9px;
 
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1,1428;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .footer-social-link{
